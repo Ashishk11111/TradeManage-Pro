@@ -36,8 +36,8 @@
 ## Tech Stack
 
 - **Frontend:** React, TypeScript  
-- **Backend:** PostgreSQL  
-- **Other Technologies:** Real-time updates, secure authentication
+- **Backend:** PostgreSQL, Supabase  
+- Real-time updates, secure authentication
 
 ---
 

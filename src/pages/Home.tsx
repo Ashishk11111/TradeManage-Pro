@@ -31,7 +31,7 @@ const Home = () => {
       {/* Header */}
       <header className="sticky top-0 bg-white bg-opacity-90 backdrop-blur shadow-md z-50 px-6 py-4 flex justify-between items-center animate-fadeInDown">
         <h1 className="text-3xl font-extrabold text-blue-700 tracking-wide hover:text-blue-800 transition">
-          Client Inventory Hub
+          Trade Manage PRO
         </h1>
         <nav className="space-x-4 hidden sm:block text-lg">
           {!user ? (
@@ -263,3 +263,4 @@ const Home = () => {
 };
 
 export default Home;
+
